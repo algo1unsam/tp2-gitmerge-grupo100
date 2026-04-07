@@ -1,11 +1,16 @@
 object algoritmo {
   
   method color() { 
-    return "verde"
+
+    return "Azul"
+
     }
 }
 
 object buenosAires {}
+object catamarca {
+  
+}
 
 object santaFe {}
 
